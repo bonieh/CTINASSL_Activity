@@ -4,4 +4,4 @@ Members:
 - Santiago, Martin B.
 - Villavicencio, Yvonne C.
 
-Sectopm: COM241
+Section: COM241
